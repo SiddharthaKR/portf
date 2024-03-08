@@ -1,16 +1,13 @@
 ---
 date: '2020-02-15'
-title: 'Basic Chatbot'
-github: 'https://github.com/yashitanamdeo/Basic-Chatbot'
+title: 'OBD Scanner'
+github: 'https://github.com/SiddharthaKR/OBDScanner'
 external: ''
 tech:
-  - Python
-  - Numpy
-  - Keras
-  - NLTK
-  - Pickle
+  - Java
+  - Spring Boot
 company: ''
 showInProjects: true
 ---
 
-Built a simple chatbot using deep learning techniques. The chatbot is trained on the dataset which contains categories (intents), pattern and responses.
+This project creates a mobile app (Android, Java) for car diagnostics via OBD-II standard.

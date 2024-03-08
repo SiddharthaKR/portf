@@ -1,13 +1,13 @@
 ---
 date: '2020-02-14'
-title: 'Calorie Calculator in Django'
-github: 'https://github.com/yashitanamdeo/Calorie-Calulator-Django'
+title: 'Intern Portal'
+github: 'https://github.com/SiddharthaKR/intern_portal_test'
 external: ''
 tech:
-  - Python
-  - Django
+  - React JS
+  - Node JS
 company: ''
 showInProjects: true
 ---
 
-This Calorie Calculator is an interesting project – to record and estimate number of calories we need to consume daily. This app can also provide guidelines for gaining or losing weight.
+This portal allows student to grab Internships listed on the portal and recruiters and proffesors to hire students.

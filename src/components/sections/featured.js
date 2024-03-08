@@ -109,6 +109,7 @@ const StyledLinkWrapper = styled.div`
 const StyledFeaturedImg = styled(Img)`
   width: 100%;
   max-width: 100%;
+  obeject-fit: cover,
   vertical-align: middle;
   border-radius: ${theme.borderRadius};
   position: relative;

@@ -17,8 +17,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Yashita Namdeo',
-        short_name: 'Yashita Namdeo',
+        name: 'Siddhartha Kumar Singh',
+        short_name: 'Siddhartha Kumar Singh',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

@@ -1,34 +1,26 @@
 module.exports = {
-  siteTitle: 'Yashita Namdeo',
+  siteTitle: 'Siddhartha Kumar Singh',
   siteDescription:
-    'Yashita Namdeo is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
+    'Siddhartha is an incoming Software Developer, based in India, who loves learning new things and helping tech beginners.',
   siteKeywords:
-    'Yashita Namdeo, Yashita, Namdeo, yashitanamdeo, software engineer, web developer, javascript, python, java, svvv, indore',
-  siteUrl: 'https://yashitanamdeo.github.io/',
+    'Sidddhartha, siddhartha, kumar singh, siddhartha kumar singh, software engineer, web developer, javascript, python, java, svvv, IIT, guwahati, IIT Guwahati',
+  siteUrl: 'https://github.com/SiddharthaKR',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
-  name: 'Yashita Namdeo',
-  location: 'Indore, India',
-  email: 'yashita.namdeo2000@gmail.com',
-  github: 'https://github.com/yashitanamdeo',
+  name: 'Siddhartha Kumar Singh',
+  location: 'Jharkhand, India',
+  email: 'siddharthakumarsingh946@gmail.com',
+  github: 'https://github.com/SiddharthaKR',
   twitterHandle: '@',
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/yashitanamdeo',
+      url: 'https://github.com/SiddharthaKR',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yashitanamdeo/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/yashitanamdeo',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/yashitanamdeo',
+      url: 'https://www.linkedin.com/in/siddhartha-kumar-singh-79a637190/',
     },
     {
       name: 'Twitter',

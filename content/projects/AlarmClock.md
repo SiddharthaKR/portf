@@ -1,13 +1,13 @@
 ---
-date: '2020-02-12'
-title: 'Alarm Clock'
-github: 'https://github.com/yashitanamdeo/AlarmClock'
+date: '2022-02-12'
+title: 'Inventory management'
+github: 'https://github.com/SiddharthaKR/RIM_PORTAL'
 external: ''
 tech:
-  - Python
-  - Tkinter
+  - React JS
+  - Node JS
 company: ''
 showInProjects: true
 ---
 
-This alarm clock is a simple clock with a function that can be activated to ring at a time set in advance.
+This application manges the booking of major college Equipments and maintains a proper billing records.
